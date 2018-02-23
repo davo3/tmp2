@@ -1,8 +1,8 @@
 {
     "name": "davo3/tmp2",
     "description": "tesc desc",
-    "license": "Mit",
-    "authors": "DDD",
+    "license": "MIT",
+    "authors": ["DDD"],
     "require": {
         "php": "5.6.*"
     },
