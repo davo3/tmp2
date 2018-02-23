@@ -1,7 +1,6 @@
 {
     "name": "davo3/tmp2",
     "description": "tesc desc",
-    "keywords": ['test1'],
     "license": "Mit",
     "authors": "DDD",
     "require": {
