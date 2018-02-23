@@ -2,7 +2,11 @@
     "name": "davo3/tmp2",
     "description": "tesc desc",
     "license": "MIT",
-    "authors": ["DDD"],
+    "authors": [
+		{
+			"name": "DDD"
+		}
+    ],
     "require": {
         "php": "5.6.*"
     },
