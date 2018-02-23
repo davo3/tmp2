@@ -5,7 +5,7 @@ use PHPUnit\Framework\TestCase;
 class MyClassTest extends TestCase
 {
   
-  public function smthTest()
+  public function testSmart()
   {
       $this->assertTrue(true);
   }
